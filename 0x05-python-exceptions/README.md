@@ -1,4 +1,12 @@
-# Python - Exceptions
+# 0x05. Python - Exceptions
+
+Resources
+Read or watch:
+
+- [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
+- [Learn to Program 11 Static & Exception Handling (starting at minute 7)](https://www.youtube.com/watch?v=7vbgD-3s-w4)
+
+
 
 In this project, I learned handling errors and exceptions in Python with `try`
 and `except`.
