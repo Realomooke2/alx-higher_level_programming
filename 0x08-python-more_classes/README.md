@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x08. Python - More Classes and Objects
 
 # Resources
@@ -110,3 +111,6 @@ how to use the special `__str__` and `__repr__` methods.
   [r, c]]` where `r` and `c` represent the row and column, respectively, where a
   queen must be placed.
 
+=======
+
+>>>>>>> 81c588554ed596e0bd90ab1e5421ddf3c2aa4331
