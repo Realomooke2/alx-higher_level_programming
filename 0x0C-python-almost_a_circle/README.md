@@ -1,5 +1,7 @@
     # Python - Almost a circle
 
+
+
 [Read](https://intranet.alxswe.com/projects/331#task-2486)
 
 In this project, I encapsulated skills in Python object-oriented programming
